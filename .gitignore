@@ -1,0 +1,6 @@
+.idea
+*.
+__init__.pyc
+*.pyc
+*.DS_Store
+*.zip
